@@ -201,10 +201,13 @@ form .btn:focus{
   display:none;
 }
 .loginform{
-  width: 300px;
+  width: auto;
   display: block;
   border: 1px solid;
   margin-top: 10px;
-text-align: center;
+  text-align: center;
+  left: 10%;
+  right: 10%;
 }
 }
+
